@@ -12,7 +12,7 @@ A colorful and intuitive syntax theme.
 
 ## Installation
 
-From the command line: `apm install styri-syntax`
+From the command line: `apm install sil-syntax`
 
 Or directly in Atom:
 
