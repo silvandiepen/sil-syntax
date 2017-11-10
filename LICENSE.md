@@ -1,4 +1,4 @@
-Copyright (c) 2017 Cyril Kurylo
+Copyright (c) 2017 Sil van Diepen
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

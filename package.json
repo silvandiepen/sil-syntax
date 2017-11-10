@@ -1,14 +1,14 @@
 {
-  "name": "styri-syntax",
+  "name": "sil-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "A colorful and intuitive syntax theme",
   "keywords": [
-    "styri",
+    "sil",
     "color",
     "dark"
   ],
-  "repository": "https://github.com/chbk/styri-syntax",
+  "repository": "https://github.com/silvandiepen/sil-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

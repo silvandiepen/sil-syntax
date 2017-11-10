@@ -1,14 +1,14 @@
-# Styri
+# Sil
 
 A colorful and intuitive syntax theme.
 
-![](https://raw.githubusercontent.com/chbk/styri-syntax/images/simple.js.png?raw=true)
+![](https://raw.githubusercontent.com/silvandiepen/sil-syntax/images/simple.js.png?raw=true)
 
-![](https://raw.githubusercontent.com/chbk/styri-syntax/images/clear.md.png?raw=true)
+![](https://raw.githubusercontent.com/silvandiepen/sil-syntax/images/clear.md.png?raw=true)
 
-![](https://raw.githubusercontent.com/chbk/styri-syntax/images/pretty.css.png?raw=true)
+![](https://raw.githubusercontent.com/silvandiepen/sil-syntax/images/pretty.css.png?raw=true)
 
-![](https://raw.githubusercontent.com/chbk/styri-syntax/images/easy.regexp.png?raw=true)
+![](https://raw.githubusercontent.com/silvandiepen/sil-syntax/images/easy.regexp.png?raw=true)
 
 ## Installation
 
@@ -18,6 +18,6 @@ Or directly in Atom:
 
 1. Open __Settings__ > __Install__
 2. Set the filter to __Themes__
-3. Search for `styri-syntax` and click __Install__
+3. Search for `sil-syntax` and click __Install__
 
-Once installed, open __Settings__ > __Themes__ and select __Styri__.
+Once installed, open __Settings__ > __Themes__ and select __Sil__.
