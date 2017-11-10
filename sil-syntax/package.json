@@ -2,13 +2,12 @@
   "name": "sil-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A colorful and intuitive syntax theme",
+  "description": "A short description of your syntax theme",
   "keywords": [
-    "sil",
-    "color",
-    "dark"
+    "syntax",
+    "theme"
   ],
-  "repository": "https://github.com/silvandiepen/sil-syntax",
+  "repository": "https://github.com/atom/sil-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
