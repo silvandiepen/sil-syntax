@@ -21,3 +21,7 @@ Or directly in Atom:
 3. Search for `sil-syntax` and click __Install__
 
 Once installed, open __Settings__ > __Themes__ and select __Sil__.
+
+
+### sidenote: 
+  Highly inspired by https://github.com/chbk/styri-syntax, thanks!
